@@ -560,3 +560,4 @@ explained_ss = total_ss * r_squared
 eta_squared = explained_ss / total_ss
 print(f"Eta-squared: {eta_squared:.4f}")
 
+#hehe
